@@ -13,7 +13,7 @@
 5. names() function is used to assign name to variables
 6. cbind() function is used to combine the required data set.
 7. library(plyr) is loaded and the data is aggregated
-8. Finally write.table() function is used to produce the independent data set "tidydata.txt"
+8. Finally write.table() function is used to produce the independent data set tidydata.txt
 ----------------------------------------------------------------------------------------------------------------------------
 ### Variables 
 Name | Less | Pretty
