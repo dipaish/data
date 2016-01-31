@@ -18,8 +18,14 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 ### Variables 
-Name | Less | Pretty
-SN | Less | Pretty
+| S.N. |                                 Variables                                |                       Description                       |
+|------|:------------------------------------------------------------------------:|:-------------------------------------------------------:|
+| 1    | train, test, trainActivties, testActivities, trainSubjects, testSubjects | Contains data from the downloaded files.                |
+| 2    | subject, activity, features                                              | Merger the previous datasets for further analysis       |
+| 3    | featuresNames                                                            | featuresNames contains the correct name for the dataset |
+| 4    | cData                                                                    | Data set from subject & activity                        |
+| 5    | allData                                                                  | Data set from features & cData                          |
+| 6    | newData                                                                  | Relevant mean to be stored in a .txt file               |
 
 
 
