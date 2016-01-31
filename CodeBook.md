@@ -15,7 +15,8 @@
 7. library(plyr) is loaded and the data is aggregated
 8. Finally write.table() function is used to produce the independent data set "tidydata.txt"
 ----------------------------------------------------------------------------------------------------------------------------
-
+### Variables 
+Name | Less | Pretty
 
 
 
